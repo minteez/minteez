@@ -58,6 +58,7 @@ And I'm nowhere near done. 💀
 An interactive mathematics platform originally created for my school Science Exhibition.
 
 It grew way beyond what I initially planned, covering interactive concepts, experiments, visualizations, challenges, 3D mathematics and more.
+
 ---
 
 ## 🔐 Where I'm Heading
@@ -77,8 +78,11 @@ But I'm also continuing to explore AI, mathematics and web development along the
 Outside the browser window, I'm also into:
 
 🎙️ **Public Speaking** — speeches, anchoring, MUN & presentations
+
 🧩 **Speedcubing** — Rubik's Cubes & problem solving
+
 🧮 **Mathematics** — especially when it gets way harder than the textbook
+
 🤖 **AI** — prompt engineering, generative AI & AI-assisted development
 
 ---
