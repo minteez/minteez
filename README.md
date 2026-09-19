@@ -4,9 +4,9 @@
 
 > **My brain has two modes:**
 >
-> **“I'm bored. Give me a website idea.”** 
+> * **“I'm bored. Give me a website idea.”** 
 >
-> **“I have an idea. I need to build a website about it.”**
+> * **“I have an idea. I need to build a website about it.”**
 >
 > And once an idea enters my head, it refuses to leave until there's a website for it. 😭
 
