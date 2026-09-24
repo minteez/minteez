@@ -60,7 +60,7 @@ An interactive mathematics platform originally created for my school Science Exh
 
 It grew way beyond what I initially planned, covering interactive concepts, experiments, visualizations, challenges, 3D mathematics and more.
 
-🏆 **1st Position — Seniors' Mathematics Model (Still Model)**
+🏆 **1st Position — Seniors' Mathematics Model (Still Model)** 
 **MIS EduSphere '26**
 
 ---
