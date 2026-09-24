@@ -56,9 +56,11 @@ And I'm nowhere near done. 💀
 
 ### **MathLab**
 
-An interactive mathematics platform originally created for my school Science Exhibition.
+An interactive mathematics platform originally created for my school Science Exhibition, **MIS EduSphere '26**.
 
-It grew way beyond what I initially planned, covering interactive concepts, experiments, visualizations, challenges, 3D mathematics and more.
+What started as an exhibition project grew into a much larger platform covering interactive concepts, experiments, visualizations, challenges, 3D mathematics and more.
+
+🏆 **1st Position — Best Math Model, MIS EduSphere '26**
 
 ---
 
